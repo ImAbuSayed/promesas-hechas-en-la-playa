@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/promesas-hechas-en-la-playa/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Promesas hechas en la playa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/promesas-hechas-en-la-playa/) |
+| **Get License** | [License this song: Promesas hechas en la playa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/promesas-hechas-en-la-playa/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si esta noche nos perdemos en la brisa
+> Tus ojos brillan más que las luces de Ibiza
+> Un trago de champán y esa diabólica sonrisa
+> Dejemos que el deseo nos quite la camisa
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
