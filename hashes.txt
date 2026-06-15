@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Promesas hechas en la playa
+
+This log tracks the cryptographic history and versioning for the song **Promesas hechas en la playa** (promesas-hechas-en-la-playa).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T11:50:49.770133 | `v1` | `acd2b9335668291bc3c29f61f95ece1aa74d5bebdc19b2e426ca72851a0e8060` | `830079f1d60aed97ea0b5e171c4cb49a7f5925f350402da94cd234a2707489c8` | `2026-06-15_promesas-hechas-en-la-playa-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

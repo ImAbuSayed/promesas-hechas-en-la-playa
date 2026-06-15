@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/promesas-hechas-en-la-playa/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Promesas hechas en la playa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/promesas-hechas-en-la-playa/) |
+| **Get License** | [Request Licensing for Promesas hechas en la playa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/promesas-hechas-en-la-playa/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `acd2b9335668291bc3c29f61f95ece1aa74d5bebdc19b2e426ca72851a0e8060` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
